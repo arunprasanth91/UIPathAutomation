@@ -2,7 +2,7 @@
   "name": "UIPathAutomation",
   "projectId": "0c02c2fc-644d-4665-a032-1c80ee9e62c0",
   "description": "UIPathAutomation",
-  "main": "Notepad_Automation.xaml",
+  "main": "GDPCalculator.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.4]",
     "UiPath.Mail.Activities": "[1.23.1]",
@@ -57,6 +57,12 @@
     {
       "filePath": "Notepad_Automation.xaml",
       "uniqueId": "aee4cad9-d355-4204-b2d4-fe0eb199a381",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "GDPCalculator.xaml",
+      "uniqueId": "a52e321e-e58a-4a9f-99bd-f692b7d00ce1",
       "input": [],
       "output": []
     }
